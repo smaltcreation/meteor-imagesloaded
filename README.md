@@ -42,4 +42,4 @@ $('#container').imagesLoaded()
   });
 ```
 
-*More documentation on [desandro/imagesloaded GitHub repository](https://github.com/desandro/imagesloaded/blob/master/README.md) jQuery plugin.*
+**More documentation on [desandro/imagesloaded GitHub repository](https://github.com/desandro/imagesloaded/blob/master/README.md).**
