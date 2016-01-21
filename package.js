@@ -1,7 +1,9 @@
 Package.describe({
     name: 'smaltcreation:imagesloaded',
     version: '4.1.0',
-    summary: 'imagesloaded 4.1.0'
+    summary: 'imagesloaded 4.1.0',
+    git: 'https://github.com/smaltcreation/meteor-imagesloaded',
+    documentation: 'README.md'
 });
 
 Package.onUse(function (api) {
