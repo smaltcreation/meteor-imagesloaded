@@ -15,7 +15,7 @@ Package.onUse(function (api) {
     });
 
     api.use([
-        'cosmos:browserify'
+        'cosmos:browserify@0.9.3'
     ], 'client');
 
     // Lib files
